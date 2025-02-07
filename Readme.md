@@ -12,12 +12,7 @@ This API provides air quality information for a given GPS coordinate by fetching
 git clone https://github.com/mohamedosama93/air-quality-api
 ```
 
-### **1.2 Install Dependencies**
-```bash
-npm install
-```
-
-### **1.3 Set Up Environment Variables**
+### **1.2 Set Up Environment Variables**
 Create a `.env` file in the project root and configure:
 ```env
 NODE_ENV=development
