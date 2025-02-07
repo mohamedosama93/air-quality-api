@@ -9,7 +9,7 @@ This API provides air quality information for a given GPS coordinate by fetching
 
 ### **1.1 Clone the Repository**
 ```bash
-git clone https://github.com/mohamedosama93/air-quality
+git clone https://github.com/mohamedosama93/air-quality-api
 ```
 
 ### **1.2 Install Dependencies**
